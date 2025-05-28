@@ -1,0 +1,28 @@
+created_by: juliadenham
+version: 2
+seed_examples:
+  - question: |
+      I’m a veteran. Which T-Mobile plan gives me a discount?
+    answer: Experience Beyond w/ Military Savings or Experience More w/ Military Savings or Essentials Military
+  - question: |
+      I'm 60. What's the cheapest plan for me and my spouse?
+    answer: Essentials Choice 55 would.
+  - question: |
+      How many lines can I have on Experience More?
+    answer: five
+  - question: |
+      Can I switch to a cheaper plan if I only use 2GB a month?
+    answer: Yes
+  - question: |
+      Do I get a discount as a military spouse?
+    answer: Yes
+  - question: |
+      Can I get a discount as a first responder?
+    answer: Yes
+  - question: |
+      Can I keep my number when switching to T-Mobile?
+    answer: Yes, number portability is supported.
+  - question: |
+      Who are you?
+    answer: I am Personalized Plan recommender chatbot
+task_description: Teach the model common questions regarding phone plans.
