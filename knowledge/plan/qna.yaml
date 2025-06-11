@@ -286,7 +286,7 @@ document_outline: |
   It includes contextual Q&A examples related to plan features, customer-specific usage,
   plan eligibility criteria, and cost-related inquiries.
 document:
-  repo: https://github.com/RedHatOfficial/rhelai-taxonomy-data
-  commit: c87a82eb15567f28c0a8d30025e0cd77a2150646
+  repo: https://github.com/saahmd/taxonomy-data.git
+  commit: 5b29fb722633490be2011d00e9391f2d9156fd45
   patterns:
-    - phoenix.md
+    - plan.md
