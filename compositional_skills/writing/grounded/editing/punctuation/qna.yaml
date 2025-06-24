@@ -2,38 +2,42 @@ created_by: saahmd
 version: 2
 seed_examples:
   - answer: |
-     Recommend the "Experience More" plan as it offers unlimited premium data,
-     ideal for high streaming use, and includes Netflix for single-line plans.
+      Recommend the "Experience More" plan as it offers unlimited premium data,
+      ideal for high streaming use, and includes Netflix for single-line plans.
     context: |
       | **Customer ID** | **Avg. Daily Data Usage** | **Streaming Hours/Day** | **Roaming** | **Lines in Plan** |
       |------------------|----------------------------|---------------------------|--------------|--------------------|
       | 001              | 6.5 GB                     | 4.5 hrs                   | No           | 1                  |
-    question:  Which T-Mobile plan should this customer be recommended?
+    question: Which T-Mobile plan should this customer be recommended? # Removed trailing spaces
+
   - answer: |
-       No, the Essentials plan offers limited international features.
-       Recommend upgrading to Experience Beyond for international texting and data in 210+ countries.
+      No, the Essentials plan offers limited international features.
+      Recommend upgrading to Experience Beyond for international texting and data in 210+ countries.
     context: |
       | **Customer ID** | **International Trips/Year** | **Current Plan** | **Roaming Add-on Active** |
       |------------------|-------------------------------|------------------|----------------------------|
       | 002              | 5                             | Essentials       | No                         |
     question: Is the current plan suitable for this customer?
+
   - answer: |
       Yes. Since the customer is over 55 and lives in Florida (an eligible state),
       they can switch to the T-Mobile Essentials Choice 55 plan.
       It would lower their monthly cost as it is priced at $60/month.
     context: |
-      | **Customer ID** | **Age** | **Current Plan** | **Lines** | **Location**       |
+      | **Customer ID** | **Age** | **Current Plan** | **Lines** | **Location** |
       |------------------|--------|------------------|-----------|--------------------|
       | 006              | 68     | Essentials       | 2         | Florida            |
-    question:  Is this customer eligible for a 55+ plan, and would it be beneficial?
+    question: Is this customer eligible for a 55+ plan, and would it be beneficial?
+
   - answer: |
       Yes. The Experience Beyond w/ Military Savings plan offers the same premium benefits at a lower price.
       Since the customer is a verified veteran, this switch will reduce their monthly bill.
     context: |
       | **Customer ID** | **Military Status** | **Verified** | **Current Plan** | **Lines** |
       |------------------|---------------------|--------------|------------------|-----------|
-      | 008              | Retired Veteran     | Yes          | Experience Beyond     | 3         |
+      | 008              | Retired Veteran     | Yes          | Experience Beyond   | 3         |
     question: Should this customer be moved to the Military plan?
+
   - answer: |
       Based on your relatively low data usage and limited streaming needs,
       you could switch from Experience Beyond to the Experience More plan or even consider Essentials.
@@ -41,6 +45,7 @@ seed_examples:
     context: |
       | **Monthly Data Usage** | **Streaming Hours/Day** | **Current Plan** | **Monthly Bill** | **Lines** |
       |-------------------------|---------------------------|------------------|------------------|-----------|
-      | 20.5 GB                  | 1                         | Experience Beyond      | $ 170            | 3         |
-    question:  Help me lower my monthly cost.
+      | 20.5 GB                 | 1                         | Experience Beyond | $ 170             | 3         |
+    question: Help me lower my monthly cost. # Removed trailing spaces
+
 task_description: Teach the model how to recommend plan to users.
