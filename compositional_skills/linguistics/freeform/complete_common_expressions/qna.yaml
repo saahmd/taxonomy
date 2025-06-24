@@ -12,13 +12,13 @@ seed_examples:
     answer: five
   - question: |
       Can I switch to a cheaper plan if I only use 2GB a month?
-    answer: Yes
+    answer: "Yes" # Changed from Yes to "Yes"
   - question: |
       Do I get a discount as a military spouse?
-    answer: Yes
+    answer: "Yes" # Changed from Yes to "Yes"
   - question: |
       Can I get a discount as a first responder?
-    answer: Yes
+    answer: "Yes" # Changed from Yes to "Yes"
   - question: |
       Can I keep my number when switching to T-Mobile?
     answer: Yes, number portability is supported.
