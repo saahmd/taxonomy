@@ -3,22 +3,22 @@ domain: Telco
 created_by: saahmd
 seed_examples:
   - context: |
-      **Experience Beyond** plan costs $100/month for 1 phone line, $170/month for 2 or 3 phone lines, 
-      $215/month for 4 phone lines, $260/month for 5 phone lines plus taxes and fees. 
-      This is T-Mobile's best plan, offering the option to upgrade your phone every year with the 
-      same great deals new T-Mobile customers receive. It includes a 5-Year Price Guarantee, unlimited 
-      premium data, and satellite service starting July 2025. Entertainment perks include Netflix 
-      Standard with ads, Apple TV+, and Hulu with ads, all included at no extra cost. You can also add watch and 
-      tablet lines for just $5/month. The plan comes with unlimited mobile hotspot, 30GB of high-speed data 
-      in Canada and Mexico, and 15GB of high-speed data in 215+ countries and destinations. 
+      **Experience Beyond** plan costs $100/month for 1 phone line, $170/month for 2 or 3 phone lines,
+      $215/month for 4 phone lines, $260/month for 5 phone lines plus taxes and fees.
+      This is T-Mobile's best plan, offering the option to upgrade your phone every year with the
+      same great deals new T-Mobile customers receive. It includes a 5-Year Price Guarantee, unlimited
+      premium data, and satellite service starting July 2025. Entertainment perks include Netflix
+      Standard with ads, Apple TV+, and Hulu with ads, all included at no extra cost. You can also add watch and
+      tablet lines for just $5/month. The plan comes with unlimited mobile hotspot, 30GB of high-speed data
+      in Canada and Mexico, and 15GB of high-speed data in 215+ countries and destinations.
       Additional benefits include full-flight texting and Wi-Fi streaming, and annual phone deals for both new and existing customers.
     questions_and_answers:
       - question: |
-          Need a shared plan for 4, with streaming services, use hotspot data regularly — which T-Mobile 
+          Need a shared plan for 4, with streaming services, use hotspot data regularly — which T-Mobile
           plan is best for me?
         answer: |
-          The Experience Beyond plan is the best fit for your usage. For $215/month for four lines, it 
-          offers unlimited premium data for smooth streaming, includes Netflix and supports 
+          The Experience Beyond plan is the best fit for your usage. For $215/month for four lines, it
+          offers unlimited premium data for smooth streaming, includes Netflix and supports
           unlimited mobile hotspot use.
       - question: |
           I travel internationally often and need high-speed data abroad—what plan should I choose?
@@ -31,16 +31,16 @@ seed_examples:
       - question: |
           Do you have a family plan for 4 that offers apple watch and tablets?
         answer: |
-          Yes the Experience Beyond priced at $215/month for 4 phone lines offers 
+          Yes the Experience Beyond priced at $215/month for 4 phone lines offers
           apple watch and tablet for just $5/month.
       
   - context: |
-      **Experience More** plan is priced at $85/month for 1 phone line, $140/month for 2 or 3 phone lines, $170/month for 4 phone lines, 
-      $200/month for 5 phone lines, plus taxes and fees. It’s T-Mobile’s most popular plan, providing phone upgrades every 
-      two years with competitive pricing for both new and existing customers. This plan includes a 5-Year Price Guarantee, 
-      unlimited premium data, and entertainment with Netflix Standard with ads and Apple TV+, both included. 
-      It offers 60GB of high-speed mobile hotspot data, 15GB of high-speed data in Canada and Mexico, and 5GB of 
-      high-speed data in 215+ international destinations. Full-flight texting and Wi-Fi streaming are also included, 
+      **Experience More** plan is priced at $85/month for 1 phone line, $140/month for 2 or 3 phone lines, $170/month for 4 phone lines,
+      $200/month for 5 phone lines, plus taxes and fees. It’s T-Mobile’s most popular plan, providing phone upgrades every
+      two years with competitive pricing for both new and existing customers. This plan includes a 5-Year Price Guarantee,
+      unlimited premium data, and entertainment with Netflix Standard with ads and Apple TV+, both included.
+      It offers 60GB of high-speed mobile hotspot data, 15GB of high-speed data in Canada and Mexico, and 5GB of
+      high-speed data in 215+ international destinations. Full-flight texting and Wi-Fi streaming are also included,
       making this plan ideal for frequent travelers.
     questions_and_answers:
       - question: |
@@ -49,9 +49,9 @@ seed_examples:
           The Experience More plan would be best for you as it offers upto 60GB hotspot data per month.
       - question: My family of three wants a shared plan under $150/month with phone upgrades every two years —any suggestions?
         answer: |
-          The Experience More plan gives option to upgrade phone every two years priced at 140/month for 3 lines. 
+          The Experience More plan gives option to upgrade phone every two years priced at 140/month for 3 lines.
       - question: |
-          I'm currently paying $170/month for 2 lines, which feels too expensive. I need 
+          I'm currently paying $170/month for 2 lines, which feels too expensive. I need
           full-flight texting—can you help me find a more affordable plan?"
         answer: |
           The Experience More priced at $140/month for 2 lines offers full-flight texting and Wifi.
@@ -61,10 +61,10 @@ seed_examples:
          The Experience More plan priced at $200/month for 5 phone lines has 5-year price guarantee.
       
   - context: |
-      **Essentials** plan is priced at a discounted rate of $50/month for 1 phone line, $80/month for 
-      2 phone lines, $90/month for 3 phone lines, $100/month for 4 phone lines, $120/month for 5 phone lines, plus taxes and fees. This is T-Mobile’s lowest-priced 
-      unlimited plan, offering unlimited talk, text, and data at a budget-friendly cost. It includes 50GB of 
-      premium data, making it suitable for users who want essential wireless features at a reduced rate. 
+      **Essentials** plan is priced at a discounted rate of $50/month for 1 phone line, $80/month for
+      2 phone lines, $90/month for 3 phone lines, $100/month for 4 phone lines, $120/month for 5 phone lines, plus taxes and fees. This is T-Mobile’s lowest-priced
+      unlimited plan, offering unlimited talk, text, and data at a budget-friendly cost. It includes 50GB of
+      premium data, making it suitable for users who want essential wireless features at a reduced rate.
       The AutoPay discount is applied when using an eligible payment method.
     questions_and_answers:
       - question: I use my home Wi-Fi for everything and only need a basic mobile plan with talk and text—
@@ -72,23 +72,23 @@ seed_examples:
         answer: |
           The Essentials plan would be the best as it offers unlimited talk, text, and data at $50/month for 1 phone line.
       - question: |
-          We don't need streaming, hotspot, or international data—just unlimited calls and texts for 3 lines. 
+          We don't need streaming, hotspot, or international data—just unlimited calls and texts for 3 lines.
           What do you recommend?
         answer: |
           The Essentials plan for 3 phone lines priced at $90/month would be best.
       - question: |
           We’re a couple who only need unlimited talk and text—what’s the most affordable T-Mobile plan for two lines?
         answer: |
-          For 2 lines the best option for you would be the Essentails plan priced at $80/month for 
-          2 phone lines
+          For 2 lines the best option for you would be the Essentails plan priced at $80/month for
+          2 phone lines.
   - context: |
-      **Experience Beyond w/ 55+ Savings** plan is available for ($85/month for 1 phone line, $130/month for 2 
-      phone lines), plus taxes and fees. This plan offers T-Mobile’s best entertainment bundle, along with 
-      the option to upgrade your phone every year. It includes a 5-Year Price Guarantee, satellite service 
-      starting July 2025, and unlimited premium data. Entertainment perks feature Netflix Standard with ads, 
-      Apple TV+, and Hulu (with ads), all included. Additional benefits include unlimited mobile hotspot, 
-      unlimited texting, and 30GB of high-speed data in Canada and Mexico. You also get 15GB of high-speed 
-      data in 215+ international destinations, full-flight texting and Wi-Fi with streaming, and 
+      **Experience Beyond w/ 55+ Savings** plan is available for ($85/month for 1 phone line, $130/month for 2
+      phone lines), plus taxes and fees. This plan offers T-Mobile’s best entertainment bundle, along with
+      the option to upgrade your phone every year. It includes a 5-Year Price Guarantee, satellite service
+      starting July 2025, and unlimited premium data. Entertainment perks feature Netflix Standard with ads,
+      Apple TV+, and Hulu (with ads), all included. Additional benefits include unlimited mobile hotspot,
+      unlimited texting, and 30GB of high-speed data in Canada and Mexico. You also get 15GB of high-speed
+      data in 215+ international destinations, full-flight texting and Wi-Fi with streaming, and
       consistent upgrade offers for both new and existing customers.
     questions_and_answers:
       - question: I’m 60 and want unlimited data and unlimited hotspot access for two lines—what plan would you suggest?
@@ -96,7 +96,7 @@ seed_examples:
           The Experiece Beyond w/ 55+ Savings plan priced at $130/month for 2 phone lines would be the best for you.
       - question: I’m 58 and travel frequently to Canada— which plan should I get?
         answer: |
-          The Experience Beyond w/ 55+ Savings plan would be best for you as it offers 30GB of data in 
+          The Experience Beyond w/ 55+ Savings plan would be best for you as it offers 30GB of data in
           Canada.
       - question: |
           I use my phone as a hotspot heavily and I’m over 55—any plans that support that?
@@ -108,40 +108,40 @@ seed_examples:
           You could go for the Experience Beyond w/ 55+ Savings priced at $130/month for 2 phone lines as it includes Hulu.
      
   - context: |      
-      **Experience More w/ 55+ Savings plan** is available at a price of ($70/month for 1 phone 
-      line, $100/month for 2 phone lines), plus taxes and fees. T-Mobile’s most popular 55+ plan, 
-      it includes an upgrade option every two years and offers the same great phone deals to both new 
-      and existing customers. This plan provides unlimited premium data, Netflix Standard with ads, 
-      Apple TV+, and 60GB of high-speed hotspot data. It also includes unlimited text and 15GB of 
-      high-speed data in Canada and Mexico, and 5GB of high-speed data in over 215 countries and 
+      **Experience More w/ 55+ Savings plan** is available at a price of ($70/month for 1 phone
+      line, $100/month for 2 phone lines), plus taxes and fees. T-Mobile’s most popular 55+ plan,
+      it includes an upgrade option every two years and offers the same great phone deals to both new
+      and existing customers. This plan provides unlimited premium data, Netflix Standard with ads,
+      Apple TV+, and 60GB of high-speed hotspot data. It also includes unlimited text and 15GB of
+      high-speed data in Canada and Mexico, and 5GB of high-speed data in over 215 countries and
       destinations. Full-flight texting and Wi-Fi with streaming are also part of the benefits.
     questions_and_answers:
       - question: I’m 58 and travel frequently—any senior plans that include international data at low-cost?
         answer: |
-          The Experience Beyond w/ 55+ Savings priced at $70/month for 1 phone 
-          line would be best for you as it offers 50GB of data in 
+          The Experience Beyond w/ 55+ Savings priced at $70/month for 1 phone
+          line would be best for you as it offers 50GB of data in
           215+ international destinations.
       - question: |
-          I am currently using Experience Beyond w/ 55+ Savings plan for 2 phone lines which is expensive, 
+          I am currently using Experience Beyond w/ 55+ Savings plan for 2 phone lines which is expensive,
           can you suggest affordable plan with streaming services included?
         answer: |
-          You could opt for Experience More w/ 55+ Savings plan which is priced at $100/month for 2 phone lines 
+          You could opt for Experience More w/ 55+ Savings plan which is priced at $100/month for 2 phone lines
           and includes streaming services.
       - question: |
           I am 55+, just require unlimited data at an affordable price, what pla I should get?
         answer: |
-          You can choose the Experience More w/ 55+ Savings plan priced at $70/month for 1 phone option. 
+          You can choose the Experience More w/ 55+ Savings plan priced at $70/month for 1 phone option.
 
 
   - context: |            
-      **Essentials Choice 55 plan** is priced at ($45/month for 1 phone line, $60/month for 2 phone 
-      lines) plus taxes and fees. Tailored for customers aged 55 and over, this plan includes 
-      unlimited talk and text, and 50GB of premium data. It also comes with Scam Shield Premium at 
+      **Essentials Choice 55 plan** is priced at ($45/month for 1 phone line, $60/month for 2 phone
+      lines) plus taxes and fees. Tailored for customers aged 55 and over, this plan includes
+      unlimited talk and text, and 50GB of premium data. It also comes with Scam Shield Premium at
       no extra cost, providing essential features and security at a great value.
     questions_and_answers:
       - question: I’m 58 and want affordable T-Mobile plan for me and my wife-any suggestions?
         answer: |
-          The Essentials Choice 55 plan priced at $60/month for 2 phone 
+          The Essentials Choice 55 plan priced at $60/month for 2 phone
           line would be best for you.
       - question: |
           I'm 70 and paying over $60/month. I just need unlimited talk and text—can you help me find a cheaper plan?
@@ -150,24 +150,24 @@ seed_examples:
       - question: |
           Are there any simple unlimited plans for seniors without streaming or hotspot?
         answer: |
-          Yes, the Essentials Choice 55+ plan offers unlimited talk and text without streaming or hotspot, 
+          Yes, the Essentials Choice 55+ plan offers unlimited talk and text without streaming or hotspot,
           priced at $45/month for one line.
       - question: |
           Are there affordable unlimited talk and text plans for people 55 and older?
         answer: |
-          Yes, the Essentials Choice 55+ plan provides unlimited talk and text at 
+          Yes, the Essentials Choice 55+ plan provides unlimited talk and text at
           an affordable rate of $45/month for one line.
     
   - context: |            
-      **Experience Beyond w/ Military Savings** plan is available for ($85/month for 1 phone line, 
-      $130/month for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines, 
-      $235/month for 5 phone lines), plus taxes and fees, with the AutoPay discount applied. This 
-      is T-Mobile’s best plan for military families, offering the option to upgrade your phone every 
-      year and access to their top-tier entertainment bundle. It includes a 5-Year Price Guarantee, 
-      satellite service starting July 2025, and unlimited premium data. Entertainment perks consist of 
-      Netflix Standard with ads, Apple TV+, and Hulu (with ads) — all included. Additional features 
-      include watch and tablet lines for just $5/month, unlimited mobile hotspot, 30GB of high-speed 
-      data in Canada and Mexico, 15GB of high-speed data in over 215 countries, and full-flight texting 
+      **Experience Beyond w/ Military Savings** plan is available for ($85/month for 1 phone line,
+      $130/month for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines,
+      $235/month for 5 phone lines), plus taxes and fees, with the AutoPay discount applied. This
+      is T-Mobile’s best plan for military families, offering the option to upgrade your phone every
+      year and access to their top-tier entertainment bundle. It includes a 5-Year Price Guarantee,
+      satellite service starting July 2025, and unlimited premium data. Entertainment perks consist of
+      Netflix Standard with ads, Apple TV+, and Hulu (with ads) — all included. Additional features
+      include watch and tablet lines for just $5/month, unlimited mobile hotspot, 30GB of high-speed
+      data in Canada and Mexico, 15GB of high-speed data in over 215 countries, and full-flight texting
       and Wi-Fi with streaming. Both new and existing T-Mobile customers receive the same great upgrade offers every year.
 
     questions_and_answers:
@@ -175,10 +175,10 @@ seed_examples:
         answer: |
           The Experience Beyond w/ Military Saving plan priced at $85/month offers upgrade option every year.
       - question: |
-          As a service member who travels often, I need satellite service, unlimited data, 
+          As a service member who travels often, I need satellite service, unlimited data,
           and a shared plan for 3 lines—are there any military-friendly options?
         answer: |
-          Yes, you could get the The Experience Beyond w/ Military Saving for 3 phone lines priced at $165/month 
+          Yes, you could get the The Experience Beyond w/ Military Saving for 3 phone lines priced at $165/month
           that includes satellite service.
       - question: |
           I’m a veteran who travels often with my wife—what T-Mobile plan offers strong international coverage and unlimited data?
@@ -196,12 +196,12 @@ seed_examples:
 
 
   - context: |            
-      **Experience More w/ Military Savings** plan is available for ($70/month for 1 phone line, $100/month 
-      for 2 phone lines, $120/month for 3 phone lines, $140/month for 4 phone lines, $160/month for 5 phone 
-      lines), plus taxes and fees, with the AutoPay discount applied. T-Mobile’s most popular plan for military 
-      customers, it offers the option to upgrade every two years with the same deals for both new and existing customers. 
-      The plan includes a 5-Year Price Guarantee, unlimited premium data, Netflix Standard with ads, Apple TV+, and 
-      60GB of high-speed mobile hotspot. Users get 15GB of high-speed data in Canada and Mexico, 5GB in 215+ international 
+      **Experience More w/ Military Savings** plan is available for ($70/month for 1 phone line, $100/month
+      for 2 phone lines, $120/month for 3 phone lines, $140/month for 4 phone lines, $160/month for 5 phone
+      lines), plus taxes and fees, with the AutoPay discount applied. T-Mobile’s most popular plan for military
+      customers, it offers the option to upgrade every two years with the same deals for both new and existing customers.
+      The plan includes a 5-Year Price Guarantee, unlimited premium data, Netflix Standard with ads, Apple TV+, and
+      60GB of high-speed mobile hotspot. Users get 15GB of high-speed data in Canada and Mexico, 5GB in 215+ international
       destinations, and full-flight texting and Wi-Fi with streaming on supported flights.
 
     questions_and_answers:
@@ -222,9 +222,9 @@ seed_examples:
           Yes the Experience More w/ Military Savings priced at $70/month has a 5-Year Price guarantee.
 
   - context: |            
-      **Essentials Military** plan costs $45/month for 1 phone line, $80/month for 2 phone lines, $90/month for 
-      3 phone lines, $100/month for 4 phone lines, $110/month for 5 phone lines,  plus taxes and fees, with the 
-      AutoPay discount applied. This basic yet reliable option provides unlimited talk and text along with 50GB of 
+      **Essentials Military** plan costs $45/month for 1 phone line, $80/month for 2 phone lines, $90/month for
+      3 phone lines, $100/month for 4 phone lines, $110/month for 5 phone lines,  plus taxes and fees, with the
+      AutoPay discount applied. This basic yet reliable option provides unlimited talk and text along with 50GB of
       premium data. It’s designed to deliver essential wireless services at a great discount for veterans and military personnel.
 
     questions_and_answers:
@@ -242,26 +242,26 @@ seed_examples:
       - question: |
           I’m a veteran with a family of 5—are there any affordable options?
         answer: |
-          Yes T-mobile offers Essentials Military priced at $110/month for 5 phone lines. 
+          Yes T-mobile offers Essentials Military priced at $110/month for 5 phone lines.
     
   - context: |            
-      **Experience Beyond w/ First Responder Savings** plan is offered at $85/month for 1 phone line, $130/month 
-      for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines, $235/month for 5 phone lines, 
-      plus taxes and fees, with the AutoPay discount applied using an eligible payment method. This is T-Mobile’s most 
-      premium plan for first responders, delivering the best entertainment bundle and the ability to upgrade your 
-      phone every year — all while receiving the same great deals as new customers. The plan features a 5-Year Price 
+      **Experience Beyond w/ First Responder Savings** plan is offered at $85/month for 1 phone line, $130/month
+      for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines, $235/month for 5 phone lines,
+      plus taxes and fees, with the AutoPay discount applied using an eligible payment method. This is T-Mobile’s most
+      premium plan for first responders, delivering the best entertainment bundle and the ability to upgrade your
+      phone every year — all while receiving the same great deals as new customers. The plan features a 5-Year Price
       Guarantee, T-Priority ON US, satellite service launching in July 2025, and unlimited premium data. Subscribers
-      enjoy Netflix Standard with ads, Apple TV+, and Hulu (with ads) included. Additional benefits include watch and 
-      tablet lines for just $5/month, unlimited mobile hotspot, 30GB of high-speed data in Canada and Mexico, and 15GB 
-      of high-speed data in over 215 international destinations. You’ll also get full-flight texting and Wi-Fi with 
+      enjoy Netflix Standard with ads, Apple TV+, and Hulu (with ads) included. Additional benefits include watch and
+      tablet lines for just $5/month, unlimited mobile hotspot, 30GB of high-speed data in Canada and Mexico, and 15GB
+      of high-speed data in over 215 international destinations. You’ll also get full-flight texting and Wi-Fi with
       streaming where available. Both new and existing T-Mobile customers are eligible for the same upgrade offers every year.
-      **Experience More w/ First Responder Savings** plan is available at $70/month for 1 phone line, $100/month for 
-      2 phone lines, $120/month for 3 phone lines, $140/month for 4 phone lines, $160/month for 5 phone lines, plus 
-      taxes and fees. It differs from Experience Beyond only in that it includes up to 60GB of hotspot data, 15GB of data in Canada and Mexico, 
+      **Experience More w/ First Responder Savings** plan is available at $70/month for 1 phone line, $100/month for
+      2 phone lines, $120/month for 3 phone lines, $140/month for 4 phone lines, $160/month for 5 phone lines, plus
+      taxes and fees. It differs from Experience Beyond only in that it includes up to 60GB of hotspot data, 15GB of data in Canada and Mexico,
       and 5GB of data in 215+ countries.
-      **Essentials First Responder plan** is priced at $45/month for 1 phone line, $80/month for 2 phone lines, 
+      **Essentials First Responder plan** is priced at $45/month for 1 phone line, $80/month for 2 phone lines,
       $90/month for 3 phone lines, $100/month for 4 phone lines, $110/month for 5 phone lines.
-      Tailored for first responders, this plan offers unlimited talk and text along with 50GB of premium high-speed data per line. It provides all the essential 
+      Tailored for first responders, this plan offers unlimited talk and text along with 50GB of premium high-speed data per line. It provides all the essential
       wireless benefits at a significant discount, making it a budget-friendly option for families or teams.
     questions_and_answers:
       - question: Are there any first responder plans available?
@@ -274,12 +274,12 @@ seed_examples:
       - question: |
           I’m a firefighter, whose monthly hotspot data does not exceed 30GB but need specialized network.
         answer: |
-          You can choose the Expereice More w/First Responder plan priced at $70/month for 1 phone line that offers 
+          You can choose the Expereice More w/First Responder plan priced at $70/month for 1 phone line that offers
           upto 50GB of hotspot data alongwith T-Priority.
       - question: |
           I’m a first responder with a family of 5—are there any budget-friendly options?
         answer: |
-          Yes T-mobile offers Essentials First Responder priced at $110/month for 5 phone lines. 
+          Yes T-mobile offers Essentials First Responder priced at $110/month for 5 phone lines.
 
 document_outline: |
   This document provides a knowledge base for T-Mobile plan selection and comparison.
