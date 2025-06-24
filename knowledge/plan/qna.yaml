@@ -104,7 +104,7 @@ seed_examples:
           We’re a couple over 55 and want a plan that includes Hulu—what should we get?
         answer: |
           You could go for the Experience Beyond w/ 55+ Savings priced at $130/month for 2 phone lines as it includes Hulu.
-  - context: |      
+  - context: |
       **Experience More w/ 55+ Savings plan** is available at a price of ($70/month for 1 phone
       line, $100/month for 2 phone lines), plus taxes and fees. T-Mobile’s most popular 55+ plan,
       it includes an upgrade option every two years and offers the same great phone deals to both new
@@ -128,7 +128,7 @@ seed_examples:
           I am 55+, just require unlimited data at an affordable price, what pla I should get?
         answer: |
           You can choose the Experience More w/ 55+ Savings plan priced at $70/month for 1 phone option.
-  - context: |            
+  - context: |
       **Essentials Choice 55 plan** is priced at ($45/month for 1 phone line, $60/month for 2 phone
       lines) plus taxes and fees. Tailored for customers aged 55 and over, this plan includes
       unlimited talk and text, and 50GB of premium data. It also comes with Scam Shield Premium at
@@ -152,7 +152,7 @@ seed_examples:
         answer: |
           Yes, the Essentials Choice 55+ plan provides unlimited talk and text at
           an affordable rate of $45/month for one line.
-  - context: |            
+  - context: |
       **Experience Beyond w/ Military Savings** plan is available for ($85/month for 1 phone line,
       $130/month for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines,
       $235/month for 5 phone lines), plus taxes and fees, with the AutoPay discount applied. This
@@ -187,7 +187,7 @@ seed_examples:
           I’m stationed near the Mexico border—are there any military plans with stable pricing and fast data in Mexico?
         answer: |
           Yes the Experience Beyond w/ Military Savings priced at $85/month offers upto 30GB of high speed data in Mexico.
-  - context: |            
+  - context: |
       **Experience More w/ Military Savings** plan is available for ($70/month for 1 phone line, $100/month
       for 2 phone lines, $120/month for 3 phone lines, $140/month for 4 phone lines, $160/month for 5 phone
       lines), plus taxes and fees, with the AutoPay discount applied. T-Mobile’s most popular plan for military
@@ -211,7 +211,7 @@ seed_examples:
           As an active-duty military member, can I get a plan with no surprise hikes?
         answer: |
           Yes the Experience More w/ Military Savings priced at $70/month has a 5-Year Price guarantee.
-  - context: |            
+  - context: |
       **Essentials Military** plan costs $45/month for 1 phone line, $80/month for 2 phone lines, $90/month for
       3 phone lines, $100/month for 4 phone lines, $110/month for 5 phone lines,  plus taxes and fees, with the
       AutoPay discount applied. This basic yet reliable option provides unlimited talk and text along with 50GB of
@@ -232,7 +232,7 @@ seed_examples:
           I’m a veteran with a family of 5—are there any affordable options?
         answer: |
           Yes T-mobile offers Essentials Military priced at $110/month for 5 phone lines.
-  - context: |            
+  - context: |
       **Experience Beyond w/ First Responder Savings** plan is offered at $85/month for 1 phone line, $130/month
       for 2 phone lines, $165/month for 3 phone lines, $200/month for 4 phone lines, $235/month for 5 phone lines,
       plus taxes and fees, with the AutoPay discount applied using an eligible payment method. This is T-Mobile’s most
